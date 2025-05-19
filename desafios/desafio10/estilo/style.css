@@ -1,2 +1,29 @@
 @charset "UTF-8";
 
+header{
+background-image: linear-gradient(to top, #00D4FF, #00D4FF,#ffffff,#ffffff);
+}
+header > p{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header > div{
+    text-align: center;
+}
+header > h1{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: #00D4FF;
+}
+body{
+    background-color: #00D4FF;
+}
+main > h1{
+    text-align: center;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
